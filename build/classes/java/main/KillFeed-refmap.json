@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "nsevenart/killfeed/mixin/ExampleMixin": {
+      "tick()V": "Lnet/minecraft/class_310;method_1574()V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "nsevenart/killfeed/mixin/ExampleMixin": {
+        "tick()V": "Lnet/minecraft/class_310;method_1574()V"
+      }
+    }
+  }
+}

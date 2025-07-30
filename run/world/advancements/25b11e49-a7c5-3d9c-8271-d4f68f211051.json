@@ -1,0 +1,86 @@
+{
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-08-23 18:26:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-08-23 18:26:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-08-23 18:25:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-08-23 18:26:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-08-23 18:26:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-08-23 18:26:42 +0800",
+      "minecraft:spider": "2024-08-23 18:26:08 +0800",
+      "minecraft:creeper": "2024-08-23 18:26:13 +0800",
+      "minecraft:zombie": "2024-08-23 18:26:02 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-08-23 18:26:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-08-23 18:26:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2024-08-23 18:26:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-08-23 18:26:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2024-08-23 18:25:29 +0800",
+      "minecraft:sparse_jungle": "2024-08-23 18:25:58 +0800",
+      "minecraft:plains": "2024-08-23 18:25:57 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-08-23 18:26:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-08-23 18:26:08 +0800"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

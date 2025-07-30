@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "killfeed",
+  "version": "1.0",
+  "name": "KillFeed",
+  "description": "A simple killfeed mod",
+  "authors": [
+    "nsevenart"
+  ],
+  "contact": {
+    "sources": "https://github.com/nsevenart/killfeed"
+  },
+  "license": "MIT",
+  "icon": "assets/killfeed/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "nsevenart.killfeed.KillFeed"
+    ],
+    "client": [
+      "nsevenart.killfeed.client.KillFeedClient"
+    ]
+  },
+  "mixins": [
+    "killfeed.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.6",
+    "fabric": "*",
+    "minecraft": "1.20.1"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

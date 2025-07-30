@@ -1,0 +1,10 @@
+modLoader="fabric"
+loaderVersion="[>=0.12.0]"
+license="MIT"
+[[mods]]
+modId="killfeed"
+version="1.0.0"
+displayName="Killfeed Mod"
+description="A simple killfeed mod like in Counter-Strike."
+authors=["nsevenart"]
+contact="https://nseven.art"
